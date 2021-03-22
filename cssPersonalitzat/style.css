@@ -1,0 +1,40 @@
+.text-primary{
+    color: rgb(18, 238, 18) !important;
+}
+
+.text-secondary{
+    color: rgb(255, 255, 255) !important;
+}
+
+.text-success{
+    color: rgb(238, 18, 18) !important;
+}
+
+.text-danger{
+    color: rgb(77, 41, 1) !important;
+}
+
+.text-warning{
+    color: rgb(230, 197, 9) !important;
+}
+
+.text-info{
+    color: rgb(56, 170, 170) !important;
+}
+
+.text-light{
+    color: rgb(253, 204, 234) !important;
+}
+
+.text-dark{
+    color: rgb(112, 119, 112) !important;
+}
+
+.text-muted{
+    color: rgb(0, 0, 0) !important;
+}
+
+.text-white{
+    color: rgb(33, 18, 238) !important;
+}
+
